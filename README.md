@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning python and django full stack web development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: squadsparrow@gmail.com
+- 📫 How to reach me: nyagapiera99@gmail.com
 
 <!---
 Piera-Nyaga/Piera-Nyaga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
