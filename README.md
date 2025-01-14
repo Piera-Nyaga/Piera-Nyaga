@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Piera-Nyaga
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning python and django full stack web development
-- 💞️ I’m looking to collaborate on ...
+- 👀 A data quality analyst working with databricks, dbt, sql, and python to ensure data quality in systems.
+- 🌱 I’m currently learning data visualizations using Grafana and Tableau.
+- 💞️ I’m looking to collaborate on all things data
 - 📫 How to reach me: nyagapiera99@gmail.com
 
 <!---
